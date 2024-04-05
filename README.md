@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bartyspace
 - 👀 I’m now interested in coding frontend
-- 🌱 I’m currently learning HTML, CSS, React.js
+- 🌱 I’m currently learning HTML, CSS, Javascript, Astro
 - 💞️ I’m looking to collaborate on my website
 - 📫 How to reach me bartyspace2000@gmail.com
 
